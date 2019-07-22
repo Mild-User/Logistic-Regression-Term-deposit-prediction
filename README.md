@@ -9,8 +9,14 @@ Method: Since the problem is a binary classification problem meaning that it inv
 
 Steps involved:
 
-1) Data Analysis / Exploration -Plot different charts to analyse data -Calculate key summary statistics as well one can ask interesting questions looking at the observations
+1) Data Analysis / Exploration 
+-Plot different charts to analyse data 
+-Calculate key summary statistics as well one can ask interesting questions looking at the observations
 
-2) Data pre-processing -Handle missing values and drop uneccessary columns -Use feature scaling/normalization if required -Develop raw data into useful format
+2) Data pre-processing 
+-Handle missing values and drop uneccessary columns 
+-Use feature scaling/normalization if required -Develop raw data into useful format
 
-3) Apply Machine learning -Use feature engineering if required and handle data properly according to the way the algorithm requires (one hot encoding) -Select a correct algorithm -Train the model by splitting into train and validation sets -Calculate the accuracy of the model
+3) Apply Machine learning 
+-Use feature engineering if required and handle data properly according to the way the algorithm requires (one hot encoding) -Select a correct algorithm 
+-Train the model by splitting into train and validation sets -Calculate the accuracy of the model
