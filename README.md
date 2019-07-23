@@ -24,3 +24,8 @@ Steps involved:
   -Use feature engineering if required and handle data properly according to the way the algorithm requires (one hot encoding)      
   -Select a correct algorithm 
   -Train the model by splitting into train and validation sets -Calculate the accuracy of the model
+
+
+References:
+Learning Predictive Analytics with python - Ashish Kumar
+https://towardsdatascience.com/building-a-logistic-regression-in-python-step-by-step-becd4d56c9c8
